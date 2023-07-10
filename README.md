@@ -1,3 +1,4 @@
+yarn add firebase
 yarn add sass
 yarn start
 
